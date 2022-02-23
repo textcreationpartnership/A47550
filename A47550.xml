@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Knight-Errantry, or, Don Quixot encountring the windmill being a relation of the siege of Knocke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47550</idno>
+            <idno type="STC">Wing K699</idno>
+            <idno type="STC">ESTC R2686</idno>
+            <idno type="EEBO-CITATION">13663467</idno>
+            <idno type="OCLC">ocm 13663467</idno>
+            <idno type="VID">101141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 792:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Knight-Errantry, or, Don Quixot encountring the windmill being a relation of the siege of Knocke.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; date of publication from colophon.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101141:1"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:101141:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>Knight-Errantry; OR, DON QUIXOT Encountring the WINDMILL. BEING <hi>A Relation of the Siege</hi> OF KNOCKE.</head>
+            <epigraph>
+               <q>Spectatum Admiſſi riſum teneatis amici.</q>
+               <bibl>
+                  <hi>Hor. Ar. Po.</hi>
+               </bibl>
+            </epigraph>
+            <lg>
+               <l>THE bold Allies, whoſe Pride and Numbers ſwell,</l>
+               <l>In Peaceful Camps reſolve no more to dwell;</l>
+               <l>But to direct their Fury and their Gall</l>
+               <l>A grave Cabal, They, of the Sageſt, call;</l>
+               <l>Whoſe Teeming Brains in Copulation join,</l>
+               <l>To Procreate Some Shapely, brave deſign.</l>
+               <l>With an unuſual ſtir they pant, and heave,</l>
+               <l>The Generous offspring lab'ring to Conceive;</l>
+               <l>Till after many Pangs, and tedious Throws</l>
+               <l>The Graceful Pregnant <hi>Heroe</hi> with THE NOSE</l>
+               <l>Brought forth, to this effect, ſome wondrous Proſe.</l>
+            </lg>
+            <lg>
+               <l>My Friends, 'tis true, ſome Blood the Wars have coſt;</l>
+               <l>Some Treaſure has been ſpent, and Towns been loſt;</l>
+               <l>But paſs't unlucky Chances to redeem,</l>
+               <l>And re-inſtate our Lauguiſhing Eſteem,</l>
+               <l>
+                  <pb n="2" facs="tcp:101141:2"/>
+                  <!-- PDF PAGE 21 -->To Action we'll Proceed: A mighty Town</l>
+               <l>Shall be beſieg'd, of ſtrenght, and of renown:</l>
+               <l>From whence we'll <hi>France</hi> ſo forcibly invade</l>
+               <l>She'l ſoon diſgorge the Conqueſt ſhe has made;</l>
+               <l>'Tis KNOCKE'S the Place ſhall feel our Thundring hand,</l>
+               <l>The Nobleſt Fortreſs that ſecures the Land.</l>
+               <l>Where, if ſucceſs doth with our Councils hit,</l>
+               <l>
+                  <hi>Ypre,</hi> and <hi>Dunkirk</hi> will in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourſe ſubmit.</l>
+               <l>Thoſe Petty Forts will ne'er withſtand our Pow'rs</l>
+               <l>When <hi>Knocke,</hi> the fam'd Metrapolis, is ours.</l>
+               <l>'Tis <hi>there,</hi> my Warriours, we'ell defeat the Foe;</l>
+               <l>
+                  <hi>There</hi> purchaſe Praiſe, and rich in Glory grow;</l>
+               <l>'Tis <hi>there</hi> th' enſlav'd, the wounded and the ſlain</l>
+               <l>Shall give an Earneſt of a Bleſs'd Campaign.</l>
+            </lg>
+            <lg>
+               <l>With that, to Boaſt his Manhood, he Aſſum'd</l>
+               <l>A Frowning Look; and fiercely Cockt, and Plum'd,</l>
+               <l>Into a ſort of Warlike fit he flew,</l>
+               <l>And, in the Furious Tranſport, almoſt drew,</l>
+               <l>Then thus Proceeded—</l>
+            </lg>
+            <lg>
+               <l>The Stubborn murmuring <hi>Britains</hi> loudly rore</l>
+               <l>That we're in <hi>debt;</hi> but <hi>Knocke</hi> ſhall pay the Score:</l>
+               <l>That in 7 <hi>years</hi> it is a Burning ſhame</l>
+               <l>We've nothing done; but <hi>Knocke</hi> ſhall raiſe our Fame:</l>
+               <l>That <hi>Mons's Loſs,</hi> and <hi>two Great Cities</hi> more</l>
+               <l>It is a Deep wound; But <hi>Knocke</hi> ſhall heal the Sore:</l>
+               <l>That of its <hi>Wealth</hi> th' exhauſted Realm we <hi>drain</hi>
+               </l>
+               <l>To <hi>Feed th' Allies;</hi> But <hi>Knocke</hi> ſhall fill't again<g ref="char:punc">▪</g>
+               </l>
+               <l>That <hi>Horrid</hi> Crimes we Act, They dare not Name</l>
+               <l>For fear of Law; But <hi>Knocke</hi> ſhall Mend the Same:</l>
+               <l>Where, tho' we fail, the Conſcious World muſt tell,</l>
+               <l>From vaſt attempts, how gloriouſly we fell.</l>
+            </lg>
+            <lg>
+               <l>At that they all out into raptures broke,</l>
+               <l>And deeply ſwore, <hi>the God of Wiſdom Spoke.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They no ſooner Agreed on this Project uncommon,</l>
+               <l>Then the <hi>Chief of the Cauſe</hi> ſhew'd himſelf not a ſlow Man:</l>
+               <l>For Commands to make ready for Death, and for ſlaughter</l>
+               <l>Flew as quick as the Bullets, that caus'd 'em, flew after;</l>
+               <l>And the brisk Engineers, to amazment, and wonder,</l>
+               <l>Were as Nimble as Light'ing, to rigg out their Thunder,</l>
+               <l>And Select the bold Blades, that without any Flatt'ry,</l>
+               <l>Whole Millions of Oaths, on occaſion, cou'd ſcatter ye,</l>
+               <l>And of Old had been fam'd for Aſſault, and for Battery.</l>
+               <l>
+                  <pb n="3" facs="tcp:101141:2"/>
+                  <!-- PDF PAGE 21 -->Thoſe Too, that when School Boys, cou'd craftily ſlip in<g ref="char:EOLhyphen"/>to Orchards, and ſteal the Pear-main, and the Pippin;</l>
+               <l>That a Warren cou'd Plunder, and rob a Hen-rooſt too,</l>
+               <l>Were earneſtly ſought, as the Men they muſt truſt to:</l>
+               <l>For 'tis ſuch, we muſt own, at the buſineſs of Storming</l>
+               <l>Are the <hi>Loons</hi> of moſt skill, and the Mightieſt performing.</l>
+               <l>And now thro' the Camp roſe a Terrible Tattle,</l>
+               <l>The Trumpets ſpoke loud, and the Drums made a rattle</l>
+               <l>To rouſe up their Spirits, and call them to Battle.</l>
+               <l>And that moſt incomp'rable Muſick the Fife</l>
+               <l>In the Ears of the Soldiers was wonderful rife,</l>
+               <l>Sufficient in Cowards to put life, and mettle,</l>
+               <l>And make <hi>Guinea-Gold</hi> of a Common <hi>Braſs Kettle.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>On the March the Gay, witty, ſpruce Lads that were half in</l>
+               <l>With Beer, and with Brandy were joking, and Laughing</l>
+               <l>At <hi>Knocke;</hi> In a whole Summers day one ſhan't ſee</l>
+               <l>The Like, how the Name on't tickl'd their Fancy:</l>
+               <l>Till at lenght they came up about 12 a Clock one day</l>
+               <l>(I think 'twas the Ninth of the Month, and a <hi>Sunday</hi>)</l>
+               <l>When at night ſome detach'd Grenadiers that were truſty</l>
+               <l>Felt the Pulſe of the place; which they found to be Luſty;</l>
+               <l>Whoſe Fortifi'd Caps were as thick, and as tall</l>
+               <l>As an Ord'nary Gar'ſons Rampart or Wall.</l>
+               <l>On the Fronts of 'em <hi>Raw head</hi> and <hi>Bloody Bones</hi> painted,</l>
+               <l>Enough to ſcare Men, with ſuch ſights, not acquainted,</l>
+               <l>And 'twas well for the <hi>French,</hi> that they came hitt, or miſs, on</l>
+               <l>In the dark, who not elſe would have touch'd Amunition,</l>
+               <l>Or dar'd to have fac'd ſuch a dire Apparition.</l>
+               <l>Tho' ſome of them Knaviſhly Crawling, and Creeping</l>
+               <l>Into other Folks Premiſſes, paid for their Peeping.</l>
+               <l>To be ſhort, when the Foe had ſeverely rebuff'd 'em,</l>
+               <l>And with multiply'd infamy Kick't 'em, and cuff'd 'em,</l>
+               <l>When their Guns, that divided Men's Corps into Quarters,</l>
+               <l>Had <hi>Canoniz'd Saints,</hi> and made many <hi>Martyrs;</hi>
+               </l>
+               <l>When <hi>Fatt Beef</hi> and <hi>Pudding,</hi> priz'd highly by all had</l>
+               <l>Been bang'd by <hi>Soop meager,</hi> and <hi>Thin-gutted Sallad,</hi>
+               </l>
+               <l>When to no ſort of purpoſe at all there, by God, They,</l>
+               <l>Had lain the third part of a Month, and an odd day,</l>
+               <l>Not to break an Old Cuſtom, much leſſen'd in Number,</l>
+               <l>They drew off to <hi>Dixmuyde,</hi> with their remnant of Lumber;</l>
+               <l>Where on Brown Bread, and Butter, they Manfully Forrage,</l>
+               <l>And Curſe their damn'd Foes, that are friendly to Porrage.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:101141:3"/>
+               <!-- PDF PAGE 22 -->
+               <l>Thence a <hi>Mercury</hi> flew, to report the diſaſter,</l>
+               <l>To the JOVE (at <hi>Becclaer</hi> that lay ſnorting) his Maſter:</l>
+               <l>Who thus was inform'd after twenty <hi>God's Bluds, Sir.</hi>
+               </l>
+               <l>The Place is too ſtrong, and the Siege in the Sudds <hi>Sir.</hi>
+               </l>
+               <l>Notwithſtanding, the DON, tho' the Caſe was a ſad one</l>
+               <l>Put the <hi>beſt Face</hi> he cou'd on't tho' God knows, a Bad one;</l>
+               <l>And Said that no more ſuch affronts he'd endure,</l>
+               <l>But the Scandal of <hi>Knocke,</hi> wou'd revenge on NAMURE;</l>
+               <l>That the <hi>French</hi> (and then horribly Swore by his Maker)</l>
+               <l>Should have Cauſe to Confeſs him a Bloody Town-Taker</l>
+            </lg>
+            <lg>
+               <l>Now ſome think the <hi>Sharper,</hi> to lay his Plot Cloſer,</l>
+               <l>Play'd off a few men, with deſign to be Looſer;</l>
+               <l>And that all was a Politick Cheat, and ſham Trick</l>
+               <l>To draw in the Bubbles, and give 'em a damn'd Nick;</l>
+               <l>That the <hi>Fox,</hi> with a fetch moſt egregiouſly queint.</l>
+               <l>To <hi>puſh home</hi> at <hi>Namure,</hi> at <hi>La Knockque made a feint;</hi>
+               </l>
+               <l>And no more meant his Fame ſhould be murder'd or wound<g ref="char:EOLhyphen"/>ed,</l>
+               <l>Than the Child that's unborn, or the Man in the Moon did:</l>
+               <l>Tho' I muſt declare, with a Solemn Proteſting,</l>
+               <l>That I don't know what's earneſt, if this was but jeſting.</l>
+               <l>Or how any Wight, in his Right ſenſes, can <hi>Sir,</hi>
+               </l>
+               <l>Hope the Maſter to beat, that's ſubdu'd by the Man <hi>Sir:</hi>
+               </l>
+               <l>For <hi>La Knocke</hi> is no better, for all it's renown,</l>
+               <l>Than a Foot-boy, or Page to a fortified Town;</l>
+               <l>No; 'tis rage, and deſpair drives him on; It can never</l>
+               <l>Be hopes of ſucceſs that enclin'd him; However</l>
+               <l>VVee'l leave Him as well as he can to <hi>Namure</hi> it,</l>
+               <l>And return to <hi>La Knocque,</hi> that took care to ſecure it</l>
+               <l>Self bravely; as we ſhall ſtil freely Confeſs it</l>
+               <l>And thus, in Heroicks, make bold to Addreſs it.</l>
+            </lg>
+            <lg>
+               <l>For thee, <hi>La Knoque,</hi> tho' <hi>ſmall's</hi> thy ſpace, and room;</l>
+               <l>Thy Story ſhall be <hi>large</hi> in time to Come;</l>
+               <l>Thy worth ſhall Sound on every diſtant ſhore</l>
+               <l>Loud as the Drum can beat, or Cannon rore,</l>
+               <l>Tho' ſlight in force, and of a ſlender Fame,</l>
+               <l>
+                  <hi>Little-Fort-Knock,</hi> has been thy former Name;</l>
+               <l>But ſince th'art now <hi>Baptiz'd</hi> with BRITISH BLOOD,</l>
+               <l>And brave MONTAL for God-father has ſtood,</l>
+               <l>No more with diſreſpect thy Name We'll treat,</l>
+               <l>But, Newly Chriſten'd, from thy Foes defeat,</l>
+               <l>Thou, for the future, ſhallt be KNOCK THE GREAT.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>July</hi> 4th. 1695</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed the Year 1695.</p>
+            <pb facs="tcp:101141:3"/>
+            <!-- PDF PAGE 22 -->
+         </div>
+      </back>
+   </text>
+</TEI>
